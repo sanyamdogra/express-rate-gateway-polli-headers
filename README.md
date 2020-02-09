@@ -15,4 +15,4 @@ Start express-gateway server.
 ## Step 3
 You will get your IP as response with the new headers.
 
-` curl http://localhost:8080/ip`
+` curl -i http://localhost:8080/ip`
